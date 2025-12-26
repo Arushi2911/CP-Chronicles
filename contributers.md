@@ -11,6 +11,8 @@
 
 |Vishva Modh|ViMo018|IIIT Allahabad|
 
+|Mohan Kumar| aricthecoder | IIIT Allahabad |
+
 <!-- ADD ABOVE THIS-->
 <!--example |Korvac | Betty |Reyansh College| IIT2024067|>
 
