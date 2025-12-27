@@ -52,7 +52,8 @@
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
 | Vrajkumar Shah        | vraj826                   | DDU, Nadiad
-| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                               
+| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                   
+| Ankit Pal              | icyfire8                 | IIIT Allahabad |                            
 | Kushagra Raghuvanshi   | Taskmaster-afk          | IIIT Allahabad                                                   |                                                | 
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
